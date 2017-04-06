@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+<style type="text/css">
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.hitam td table {
+	text-align: left;
+}
+.hitam td table tr .hitam {
+	text-align: left;
+}
+kolom {
+	text-align: center;
+}
+.hitam td table {
+	text-align: center;
+}
+.kita {
+	font-size: 24px;
+	color: #00F;
+}
+.cara {
+	font-size: 24px;
+	color: #0F0;
+}
+.file {
+	font-size: 18px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+}
+file {
+	font-size: 18px;
+}
+.raw {
+}
+.google {
+	color: #0F0
+}
+google {
+	color: #0F0;
+}
+.download {
+	font-size: 16px;
+	color: #F0F;
+}
+.url {
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bold;
+}
+</style>
